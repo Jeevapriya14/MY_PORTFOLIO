@@ -63,6 +63,13 @@
 
 [Github Repository](https://github.com/Jeevapriya14/task-management-app.git)
 
+### As a Joint Secretary of Tech Society, organized hands-on workshops, including Codecraft with Us! and Build a React Web App with me! And trained over 40+ students.
+[Workshop1-Build React web app with me!](https://www.linkedin.com/posts/jeevapriya-r_reactjs-workshopexperience-statemanagement-activity-7263961988681084928-Vz7b?utm_source=share&utm_medium=member_desktop)
+
+[Workshop2-Codecraft with Us!](https://www.linkedin.com/posts/jeevapriya-r_webdevelopment-techcommunity-workshopsuccess-activity-7235882233398444032-Zngg?utm_source=share&utm_medium=member_desktop)
+
+
+
 
 
 
