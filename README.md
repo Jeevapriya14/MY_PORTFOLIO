@@ -11,7 +11,7 @@
 - [How to Create Subfolders in your Repository?](#how-to-create-subfolders-in-your-repository)
 - [How to Upload Projects in your Repository?](#how-to-upload-projects-in-your-repository)
 - [How to Fork a Repository?](#how-to-fork-a-repository)
-# Skills:
+# SKILLS:
 ## Technical:                                                           
 - Python                                                            
 - HTML5
@@ -32,7 +32,7 @@
 - Collaboration & Teamwork
 - Interpersonal skill
 - Fast-Paced work adaptability
-# Education & Training:
+# EDUCATION & TRAINING:
 - Bachelor of Technology in Information Technology, Saveetha Engineering College, Chennai.      (2022-2026)
 ####           CGPA - 8.5(till now)
 - Higher Secondary Education(HSC), Don Bosco Matriculation Higher Secondary School, Chennai.    (2020-2022)
