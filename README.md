@@ -1,4 +1,4 @@
-  #    JEEVAPRIYA R                                                        ### [Linkedin](www.linkedin.com/in/jeevapriya-r)
+  #    JEEVAPRIYA R                                                        
   ###     B.tech in Information Technology 
   ###     Saveetha Engineering College
   ###     Chennai-600 023.
@@ -84,6 +84,11 @@
 - Google IT Automation with Python - Coursera
 - Data analytics with Python - NPTEL
 - Microsoft Azure AI certification
+
+# Contact:
+[Linkedin](www.linkedin.com/in/jeevapriya-r)
+[Email](jeevapriya1473@gmail.com)
+
 
 
 
