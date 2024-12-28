@@ -78,6 +78,11 @@
 
 # CERTIFICATIONS:
 
+- HTML, CSS, Javascript, React Essential Training - Linkedin Learning 
+- MongoDB Basics and Development Model - MongoDB
+- Google IT Automation with Python - Coursera
+- Data analytics with Python - NPTEL
+- Microsoft Azure AI certification
 
 
 
