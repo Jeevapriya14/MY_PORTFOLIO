@@ -12,7 +12,7 @@
 - [How to Upload Projects in your Repository?](#how-to-upload-projects-in-your-repository)
 - [How to Fork a Repository?](#how-to-fork-a-repository)
 # Skills:
-## Technical                                                           # Non-technical
+## Technical                                                           Non-technical
 - Python                                                            
 - HTML5
 - CSS3
