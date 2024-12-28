@@ -14,5 +14,6 @@
 # Skills:
 ## Technical
 - 1.Python
+- 
 
 
