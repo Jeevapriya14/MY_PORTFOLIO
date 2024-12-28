@@ -8,7 +8,7 @@
 1. [SKILLS](#Skills)
 2. [EDUCATION & TRAINING](#education--training)
 3. [EXPERIENCE](#experience)
-- [How to Create Subfolders in your Repository?](#how-to-create-subfolders-in-your-repository)
+4. [ACTIVITIES & PROJECTS](#activities--projects)
 - [How to Upload Projects in your Repository?](#how-to-upload-projects-in-your-repository)
 - [How to Fork a Repository?](#how-to-fork-a-repository)
 # SKILLS:
@@ -40,7 +40,21 @@
 - Secondary Education(SSLC), Don Bosco Matriculation Higher Secondary School, Chennai.          (2008-2020)
 ####           Percentage - 82.8%
 # EXPERIENCE:
-## Redytable - Frontend developer Intern (Part-time, Remote)                                    
+## Redytable - Frontend developer Intern (Part-time, Remote)                                    >10/2024 - 11/2024
+### Worked as a front-end developer, effectively completing assigned projects using HTML, CSS,React, Redux, and TypeScript technologies.
+## Brainwave Matrix Solutions - Fullstack developer Intern                                      >09/2024
+### Developed a dynamic To-Do list web app using HTML, CSS, JavaScript, and React with Git.
+## NSIC(Arjun Vision Technology & Solution), Chennai - Web developer Intern                     >07/2024
+### Developed a web application using HTML, CSS, JavaScript, and React with Git for source code management, ensuring mobile-friendly responsive design principles.
+## Afame Technologies, Chennai - Front-End Developer Intern                                     >04/2024
+### Developed user interfaces for web applications using HTML, CSS, and JavaScript.
+## TechnoHacks EduTech, Chennai - Front End Developer Intern                                    >12/2023
+### Developed web applications using HTML, CSS, and JavaScript, utilizing version control systems to track source code changes throughout the development process.
+
+# ACTIVITIES & PROJECTS:
+### - Finalist in Gidy.ai MERN Hackathon's top 5 among 51 teams, developed a Student Development System to support students academically and personally.
+[Reference](https://github.com/Jeevapriya14/Students-Development-App)
+
 
 
 
