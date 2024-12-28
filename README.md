@@ -33,8 +33,13 @@
 - Interpersonal skill
 - Fast-Paced work adaptability
 # Education & Training:
-- Bachelor of Technology in Information Technology,Saveetha Engineering College, Chennai. 2022-2026
- CGPA - 8.5(till now)
+- Bachelor of Technology in Information Technology, Saveetha Engineering College, Chennai.      (2022-2026)
+# CGPA - 8.5(till now)
+- Higher Secondary Education(HSC), Don Bosco Matriculation Higher Secondary School, Chennai.    (2020-2022)
+# Percentage - 90%
+- Secondary Education(SSLC), Don Bosco Matriculation Higher Secondary School, Chennai.          (2008-2020)
+# Percentage - 82.8%
+
    
 
 
