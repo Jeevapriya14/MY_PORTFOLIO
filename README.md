@@ -7,7 +7,7 @@
 # TABLE OF CONTENTS:
 1. [SKILLS](#Skills)
 2. [EDUCATION & TRAINING](#education--training)
-3. [EXPERIENCE](#how-to-create-new-repository)
+3. [EXPERIENCE](#experience)
 - [How to Create Subfolders in your Repository?](#how-to-create-subfolders-in-your-repository)
 - [How to Upload Projects in your Repository?](#how-to-upload-projects-in-your-repository)
 - [How to Fork a Repository?](#how-to-fork-a-repository)
