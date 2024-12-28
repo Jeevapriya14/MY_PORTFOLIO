@@ -33,8 +33,9 @@
 - Interpersonal skill
 - Fast-Paced work adaptability
 # Education & Training:
-- 
-
+- Bachelor of Technology in Information Technology,Saveetha Engineering College, Chennai. 2022-2026
+ CGPA - 8.5(till now)
+   
 
 
 
