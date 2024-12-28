@@ -13,6 +13,6 @@
 - [How to Fork a Repository?](#how-to-fork-a-repository)
 # Skills:
 ## Technical
-**1.Python
+- 1.Python
 
 
