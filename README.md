@@ -86,7 +86,10 @@
 - Microsoft Azure AI certification
 
 # Contact:
+
+[Phone Number](8939432874)
 [Linkedin](www.linkedin.com/in/jeevapriya-r)
+
 [Email](jeevapriya1473@gmail.com)
 
 
