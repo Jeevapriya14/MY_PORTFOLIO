@@ -69,12 +69,12 @@
 [Workshop2-Codecraft with Us!](https://www.linkedin.com/posts/jeevapriya-r_webdevelopment-techcommunity-workshopsuccess-activity-7235882233398444032-Zngg?utm_source=share&utm_medium=member_desktop)
 
 # ACCOMPLISHMENTS:
-- Cracked Round 1 of TCS CodeVita Season 12 and successfully qualified for Round 2.
-- Advanced to Round 2 of Tata Imagination Challenge.
-- Finalist among top 5 teams in the Gidy.ai MERN hackathon and served as a team lead.
-- Current Joint Secretary of TechSociety in the Web development community at Saveetha Engineering College.
-- Served as a Team lead in IBM Datathon, Accenture Innovation Challenge and Flipkart grid 5.0 ML Challenge.
-- Served as a School Pupil Leader and was awarded School topper in the HSC examination.
+- **Cracked Round 1 of TCS CodeVita Season 12** and successfully qualified for Round 2.
+- **Advanced to Round 2 of Tata Imagination Challenge**.
+- **Finalist among top 5 teams in the Gidy.ai MERN hackathon** and served as a team lead.
+- **Current Joint Secretary of Tech Society in the Web development community** at Saveetha Engineering College.
+- **Served as a Team lead** in IBM Datathon, Accenture Innovation Challenge and Flipkart grid 5.0 ML Challenge.
+- **Served as a School Pupil Leader** and was awarded School topper in the HSC examination.
 
 # CERTIFICATIONS:
 
