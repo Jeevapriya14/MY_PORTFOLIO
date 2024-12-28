@@ -9,7 +9,7 @@
 2. [EDUCATION & TRAINING](#education--training)
 3. [EXPERIENCE](#experience)
 4. [ACTIVITIES & PROJECTS](#activities--projects)
-- [How to Upload Projects in your Repository?](#how-to-upload-projects-in-your-repository)
+5. [CERTIFICATIONS](#certifications)
 - [How to Fork a Repository?](#how-to-fork-a-repository)
 # SKILLS:
 ## Technical:                                                           
@@ -63,10 +63,25 @@
 
 [Github Repository](https://github.com/Jeevapriya14/task-management-app.git)
 
-### As a Joint Secretary of Tech Society, organized hands-on workshops, including Codecraft with Us! and Build a React Web App with me! And trained over 40+ students.
+### - As a Joint Secretary of Tech Society, organized hands-on workshops, including Codecraft with Us! and Build a React Web App with me! And trained over 40+ students.
 [Workshop1-Build React web app with me!](https://www.linkedin.com/posts/jeevapriya-r_reactjs-workshopexperience-statemanagement-activity-7263961988681084928-Vz7b?utm_source=share&utm_medium=member_desktop)
 
 [Workshop2-Codecraft with Us!](https://www.linkedin.com/posts/jeevapriya-r_webdevelopment-techcommunity-workshopsuccess-activity-7235882233398444032-Zngg?utm_source=share&utm_medium=member_desktop)
+
+# ACCOMPLISHMENTS:
+- Cracked Round 1 of TCS CodeVita Season 12 and successfully qualified for Round 2.
+- Advanced to Round 2 of Tata Imagination Challenge.
+- Finalist among top 5 teams in the Gidy.ai MERN hackathon and served as a team lead.
+- Current Joint Secretary of TechSociety in the Web development community at Saveetha Engineering College.
+- Served as a Team lead in IBM Datathon, Accenture Innovation Challenge and Flipkart grid 5.0 ML Challenge.
+- Served as a School Pupil Leader and was awarded School topper in the HSC examination.
+
+# CERTIFICATIONS:
+
+
+
+
+
 
 
 
