@@ -61,6 +61,8 @@
 ### - I developed a Task Management App using HTML, CSS, Javascript, React, Redux and Typescript for creating, organizing, and tracking tasks with a responsive UI.
 [Visit my web app](https://jeevapriya-task-management-app.vercel.app/)
 
+[Github Repository](https://github.com/Jeevapriya14/task-management-app.git)
+
 
 
 
