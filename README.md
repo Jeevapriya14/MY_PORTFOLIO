@@ -40,6 +40,8 @@
 - Secondary Education(SSLC), Don Bosco Matriculation Higher Secondary School, Chennai.          (2008-2020)
 ####           Percentage - 82.8%
 # EXPERIENCE:
+## Redytable - Frontend developer Intern (Part-time, Remote)                                    
+
 
 
    
