@@ -11,6 +11,7 @@
 3. [EXPERIENCE](#experience)
 4. [ACTIVITIES & PROJECTS](#activities--projects)
 5. [CERTIFICATIONS](#certifications)
+6. [CONTACT](#contact)
 
 # SKILLS:
 ## Technical:                                                           
@@ -87,7 +88,8 @@
 
 # Contact:
 
-[Phone Number](8939432874)
+Contact : +91 8939432874
+
 [Linkedin](www.linkedin.com/in/jeevapriya-r)
 
 [Email](jeevapriya1473@gmail.com)
