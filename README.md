@@ -1,7 +1,7 @@
   #    JEEVAPRIYA R 
-       B.tech in Information Technology 
-       Saveetha Engineering College
-       Chennai-600 023.
+  ###     B.tech in Information Technology 
+  ###     Saveetha Engineering College
+  ###     Chennai-600 023.
   #   OBEJECTIVE:
   ## Passionate Software Engineer with problem-solving skills in Python and specialized knowledge in MERN Stack for creating responsive, user-centered web applications. Highly skilled in teamwork and effective communication, ensuring smooth project execution and timely delivery of quality results.
 # Table of Contents
