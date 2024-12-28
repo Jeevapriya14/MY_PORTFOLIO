@@ -3,7 +3,7 @@
   ###     Saveetha Engineering College
   ###     Chennai-600 023.
   #                                                                    OBJECTIVE
-  ## Passionate Software Engineer with problem-solving skills in Python and specialized knowledge in MERN Stack for creating responsive, user-centered web applications. Highly skilled in teamwork and effective communication, ensuring smooth project execution and timely delivery of quality results.
+  ### Passionate Software Engineer with problem-solving skills in Python and specialized knowledge in MERN Stack for creating responsive, user-centered web applications. Highly skilled in teamwork and effective communication, ensuring smooth project execution and timely delivery of quality results.
 # TABLE OF CONTENTS:
 1. [Skills](#Skills)
 2. [Education & Training](#education--training)
