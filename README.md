@@ -44,7 +44,7 @@
 ### Worked as a front-end developer, effectively completing assigned projects using HTML, CSS,React, Redux, and TypeScript technologies.
 ## Brainwave Matrix Solutions - Fullstack developer Intern                                      >09/2024
 ### Developed a dynamic To-Do list web app using HTML, CSS, JavaScript, and React with Git.
-## NSIC(Arjun Vision Technology & Solution), Chennai - Web developer Intern                     >07/2024
+## NSIC(Arjun Vision Technology & Solution), - Web developer Intern                             >07/2024
 ### Developed a web application using HTML, CSS, JavaScript, and React with Git for source code management, ensuring mobile-friendly responsive design principles.
 ## Afame Technologies, Chennai - Front-End Developer Intern                                     >04/2024
 ### Developed user interfaces for web applications using HTML, CSS, and JavaScript.
@@ -77,6 +77,7 @@
 - Served as a School Pupil Leader and was awarded School topper in the HSC examination.
 
 # CERTIFICATIONS:
+
 
 
 
