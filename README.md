@@ -10,7 +10,7 @@
 3. [EXPERIENCE](#experience)
 4. [ACTIVITIES & PROJECTS](#activities--projects)
 5. [CERTIFICATIONS](#certifications)
-- [How to Fork a Repository?](#how-to-fork-a-repository)
+
 # SKILLS:
 ## Technical:                                                           
 - Python                                                            
