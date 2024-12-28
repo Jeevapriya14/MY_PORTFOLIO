@@ -5,9 +5,9 @@
   #                                                                    OBJECTIVE
   ### Passionate Software Engineer with problem-solving skills in Python and specialized knowledge in MERN Stack for creating responsive, user-centered web applications. Highly skilled in teamwork and effective communication, ensuring smooth project execution and timely delivery of quality results.
 # TABLE OF CONTENTS:
-1. [Skills](#Skills)
-2. [Education & Training](#education--training)
-- [How to Create New Repository?](#how-to-create-new-repository)
+1. [SKILLS](#Skills)
+2. [EDUCATION & TRAINING](#education--training)
+3. [EXPERIENCE](#how-to-create-new-repository)
 - [How to Create Subfolders in your Repository?](#how-to-create-subfolders-in-your-repository)
 - [How to Upload Projects in your Repository?](#how-to-upload-projects-in-your-repository)
 - [How to Fork a Repository?](#how-to-fork-a-repository)
@@ -39,6 +39,8 @@
 ####           Percentage - 90%
 - Secondary Education(SSLC), Don Bosco Matriculation Higher Secondary School, Chennai.          (2008-2020)
 ####           Percentage - 82.8%
+# EXPERIENCE:
+
 
    
 
