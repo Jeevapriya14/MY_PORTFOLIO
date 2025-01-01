@@ -42,6 +42,8 @@
 - Secondary Education(SSLC), Don Bosco Matriculation Higher Secondary School, Chennai.          (2008-2020)
 ####           Percentage - 82.8%
 # EXPERIENCE:
+## Bluestock Fintech - Software Development Engineer Intern (Part-time, Remote)                 >01/2025- Present
+### I'm currently working as a SDE Intern at Bluestock Fintech.
 ## Redytable - Frontend developer Intern (Part-time, Remote)                                    >10/2024 - 11/2024
 ### Worked as a front-end developer, effectively completing assigned projects using HTML, CSS,React, Redux, and TypeScript technologies.
 ## Brainwave Matrix Solutions - Fullstack developer Intern                                      >09/2024
